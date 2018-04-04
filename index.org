@@ -3,4 +3,10 @@
 #+URI: /
 #+EMAIL: jjin082693@gmail.com
 
-Personal site of Jonathan Jin.
+#+OPTIONS: num:nil toc:nil
+
+I am a NYC-based software engineer. I'm currently at Uber NYC as a member of
+Observability Applications.
+
+I'm interested in opportunities that operate at the intersection of *research*
+and *engineering*.
