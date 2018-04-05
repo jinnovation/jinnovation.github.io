@@ -10,10 +10,10 @@ Observability Applications.
 
 ** Research Interests
 
-   My research interests include the fields of machine learning, knowledge
-   representation, and decision theory.
+   My research interests lie in the fields of *machine learning*, *knowledge
+   representation*, and *decision theory*.
 
-   More specifically, I am drawn to the following questions:
+   Specifically, I am drawn to the following questions:
 
    - What is *knowledge*? What does it mean to *know* something? Can a machine
      that achieves near-human performance at some task be said to truly *know*
