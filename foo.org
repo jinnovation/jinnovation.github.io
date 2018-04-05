@@ -1,3 +1,0 @@
-#+TITLE: Foobar
-#+URI: /foobar
-#+AUTHOR: Jonathan
