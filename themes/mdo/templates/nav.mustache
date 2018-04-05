@@ -6,9 +6,9 @@
           {{#nav-categories}}
           <li><a href="{{category-uri}}">{{category-name}}</a></li>
           {{/nav-categories}}
-          {{#static}}
-          <li><a href="{{category-uri}}">{{static-title}}</a></li>
-          {{/static}}
+          {{#static-pages}}
+          <li><a href="{{static-uri}}">{{static-title}}</a></li>
+          {{/static-pages}}
           <li><a href="{{github}}">GitHub</a></li>
         </ul>
         <form method="get" id="searchform" action="//www.google.com/search">
