@@ -307,6 +307,7 @@ table th.right, table td.right {
     max-height: 80%;
     overflow: auto;
     z-index: 200;
+    background-color: white;
 }
 
 #table-of-contents h2 {
