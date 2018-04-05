@@ -26,7 +26,7 @@ Observability Applications.
      pattern-matching, etc. How can we, as engineers, design and implement
      systems that can reason about *ambiguity* and *uncertainty*?
 
-** Professional Interests
+** TODO Professional Interests
 
    I'm interested in opportunities that operate at the intersection of
    *research* and *engineering*.
@@ -35,3 +35,4 @@ Observability Applications.
 
    - GitHub :: [[https://github.com/jinnovation][github.com/jinnovation]]
    - LinkedIn :: [[https://linkedin.com/in/jinnovation][linkedin.com/in/jinnovation]]
+   - Email :: <first initial><last name>082693<at>gmail.com
