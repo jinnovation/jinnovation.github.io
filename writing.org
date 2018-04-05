@@ -3,3 +3,5 @@
 
 I've written about my work in the past. Here's a representative, but
 non-comprehensive, sample.
+
+http://eng.uber.com/anomaly-detection/
