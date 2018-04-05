@@ -5,10 +5,28 @@
 
 #+OPTIONS: num:nil toc:nil
 
-I am a NYC-based software engineer. I'm currently at Uber NYC as a member of
+I am a NYC-based software engineer. I'm currently at [[https://www.uber.com][Uber]] as a member of
 Observability Applications.
 
-I'm interested in opportunities that operate at the intersection of *research*
-and *engineering*.
+** Research Interests
 
-Let's get in touch.
+   My research interests include the fields of machine learning, knowledge
+   representation, and decision theory.
+
+   More specifically, I am drawn to the following questions:
+
+   - What is *knowledge*? What does it mean to *know* something? Can a machine
+     that achieves near-human performance at some task be said to truly *know*
+     and *understand* that task beyond a behavioristic interpretation thereof?
+
+   - How do we *model* and *represent* that knowledge to achieve precision,
+     recall, and performance on par with -- possibly even beyond -- humans?
+
+   - Traditional machines reason with "explicit" logic -- conditionals,
+     pattern-matching, etc. How can we, as engineers, design and implement
+     systems that can reason about *ambiguity* and *uncertainty*?
+
+** Professional Interests
+
+   I'm interested in opportunities that operate at the intersection of
+   *research* and *engineering*.
