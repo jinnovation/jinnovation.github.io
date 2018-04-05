@@ -30,3 +30,8 @@ Observability Applications.
 
    I'm interested in opportunities that operate at the intersection of
    *research* and *engineering*.
+   
+** Contact
+
+   - GitHub :: [[https://github.com/jinnovation][github.com/jinnovation]]
+   - LinkedIn :: [[https://linkedin.com/in/jinnovation][linkedin.com/in/jinnovation]]
