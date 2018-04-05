@@ -1,2 +1,0 @@
-#+TITLE: Resume
-#+URI: /resume
