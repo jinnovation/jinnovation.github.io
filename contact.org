@@ -1,0 +1,10 @@
+#+TITLE: Contact Information
+#+URI: /contact
+
+* LinkedIn
+
+  linkedin.com/in/jinnovation
+
+* GitHub
+
+  github.com/jinnovation
