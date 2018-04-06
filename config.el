@@ -34,6 +34,23 @@
                                  op/site-domain)))
             (if op/organization (ht ("authors-li" t)) (ht ("avatar" op/personal-avatar)))))
 
+(defun op/jjin-default-header-param-table ()
+       (ht ("page-title" (concat (or (op/read-org-option "TITLE") "Untitled")
+                                 " - " op/site-main-title))
+           ("author" (or (op/read-org-option "AUTHOR")
+                         user-full-name "Unknown Author"))
+           ("description" (op/read-org-option "DESCRIPTION"))
+           ("keywords" (op/read-org-option "KEYWORDS"))))
+
+(advice-add
+ 'op/render-header :filter-args
+ (lambda (&optional param-table)
+   (list (ht-merge
+          (op/jjin-default-header-param-table)
+          (ht ("google-analytics" (and (boundp 'op/personal-google-analytics-id)
+                                       op/personal-google-analytics-id))
+              ("google-analytics-id" op/personal-google-analytics-id))))))
+
 (advice-add
  'op/render-navigation-bar :filter-args
  (lambda (&optional param-table)
