@@ -3,10 +3,24 @@
 #+URI: /
 #+EMAIL: jjin082693@gmail.com
 
-#+OPTIONS: num:nil toc:nil
+#+OPTIONS: num:nil todo:nil
 
 I am a NYC-based software engineer. I'm currently at [[https://www.uber.com][Uber]] as a member of
 Observability Applications.
+
+** DONE Professional Interests
+
+   I'm interested in *research engineering* and *machine learning infrastructure
+   engineering* positions.
+
+   More broadly, I'm especially interested in opportunities that operate at the
+   intersection of *research* and *engineering*. To that end, the roles that
+   most excite me provide opportunities to explore my interests in AI/ML; how
+   they might be implemented or productized both scalably and performantly; and
+   bring those research and modelling findings into production.
+
+   If you and your team are working on projects that I'd make a good addition
+   for, let's talk.
 
 ** Research Interests
 
@@ -25,11 +39,6 @@ Observability Applications.
    - Traditional machines reason with "explicit" logic -- conditionals,
      pattern-matching, etc. How can we, as engineers, design and implement
      systems that can reason about *ambiguity* and *uncertainty*?
-
-** TODO Professional Interests
-
-   I'm interested in opportunities that operate at the intersection of
-   *research* and *engineering*.
    
 ** Contact
 
