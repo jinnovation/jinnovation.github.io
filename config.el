@@ -7,7 +7,7 @@
       op/site-main-title "Jonathan Jin"
       op/site-sub-title ""
       op/personal-avatar "/headshot.jpg"
-      op/personal-google-analytics-id "UA-42551205-2")
+      op/personal-google-analytics-id nil)
 
 (defun op/jjin-default-navigation-categories ()
   (ht-merge (ht ("site-main-title" op/site-main-title)
