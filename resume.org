@@ -5,8 +5,11 @@
 
 #+OPTIONS: num:nil todo:nil
 
-#+HTML_HEAD: <script src="https://cdnjs.com/libraries/pdf.js"></script>
+Download a copy: [[./resume.pdf][here]].
 
-#+BEGIN_SRC html
-<h1>Foobar</h1>
-#+END_SRC
+#+BEGIN_EXPORT html
+<canvas id="resume"></canvas>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.489/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.0.489/pdf_viewer.js"></script>
+<script src="resume.js"></script>
+#+END_EXPORT
