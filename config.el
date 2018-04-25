@@ -59,8 +59,6 @@
           (op/jjin-default-navigation-categories)
           (ht
            ("static-pages"
-            (cons
-             (ht ("static-uri" "/resume.pdf") ("static-title" "Resume"))
              (mapcar
               (lambda (org-file)
                 (ht ("static-uri" (concat "/" (file-name-sans-extension org-file)))
@@ -69,7 +67,9 @@
                            (or
                             (not (string= (file-name-extension file) "org"))
                             (string= (file-name-nondirectory file) "index.org")))
-                         (directory-files op/repository-directory))))))))))
+                         (directory-files op/repository-directory)))))))))
+
+(advice-mapc (lambda (advice _props) (advice-remove 'op/render-navigation-bar advice)) 'op/render-navigation-bar)
 
 ;; Don't use /about, default or otherwise.
 (defalias 'op/generate-about 'ignore)
