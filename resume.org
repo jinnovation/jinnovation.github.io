@@ -5,7 +5,7 @@
 
 #+OPTIONS: num:nil todo:nil
 
-Download a copy: [[./resume.pdf][here]].
+Download a copy: [[../resume.pdf][here]].
 
 #+BEGIN_EXPORT html
 <canvas id="resume"></canvas>
