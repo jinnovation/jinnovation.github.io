@@ -1,2 +1,2 @@
 ((nil . ((eval . (progn
-                   (require 'config (expand-file-name "./config.el")))))))
+                   (require 'jjin-personal-site-config (expand-file-name "./config.el")))))))

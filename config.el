@@ -85,4 +85,4 @@
                         (plist-put (plist-put config :show-comment nil) :show-meta nil))))
               op/category-config-alist))
 
-(provide 'config)
+(provide 'jjin-personal-site-config)
