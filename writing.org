@@ -5,22 +5,32 @@
 
 I've written about my work in the past. Here's a representative sample.
 
-* [[http://eng.uber.com/anomaly-detection/][Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform]]
+* Articles
 
-  One of my first sizeable projects at Uber Observability was implementing
-  support for multiple forecasting models in our anomaly detection pipeline. The
-  pre-existing architecture was built around a single-model assumption that
-  stored forecasting results in a single, top-level mapping; this data model
-  made it cumbersome to add in support for new forecasting models later down the
-  line, as our team attempted to do shortly after I joined.
+** [[http://eng.uber.com/anomaly-detection/][Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform]]
 
-  [[file:img/dynamic-thresholds.png]]
+   One of my first sizeable projects at Uber Observability was implementing
+   support for multiple forecasting models in our anomaly detection pipeline. The
+   pre-existing architecture was built around a single-model assumption that
+   stored forecasting results in a single, top-level mapping; this data model
+   made it cumbersome to add in support for new forecasting models later down the
+   line, as our team attempted to do shortly after I joined.
 
-  In this article, I give a brief overview of anomaly detection within Uber's
-  Observability stack; detail the thought process that went into my design for a
-  "model-agnostic" data model to extend the pre-existing one; as well as the
-  resulting rollout strategy. 
+   [[file:img/dynamic-thresholds.png]]
 
-  #+ATTR_HTML: :width 60% :height 60%
-  [[file:img/multi-model.png]]
+   In this article, I give a brief overview of anomaly detection within Uber's
+   Observability stack; detail the thought process that went into my design for a
+   "model-agnostic" data model to extend the pre-existing one; as well as the
+   resulting rollout strategy. 
+
+   #+ATTR_HTML: :width 60% :height 60%
+   [[file:img/multi-model.png]]
+
+* Literate Programming
+
+** [[https://jjin.info/dotemacs][Emacs configurations]]
+
+   I've organized my Emacs configurations using [[https://orgmode.org/][Org mode]]. All Emacs Lisp
+   snippets in the document are extracted out into a final init file, exposing
+   the settings to Emacs.
 
