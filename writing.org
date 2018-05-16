@@ -35,7 +35,6 @@ I've written about my work in the past. Here's a representative sample.
    that the team decided to base our solution -- and all subsequent
    optimizations -- around.
 
-   #+ATTR_HTML: :width 60% :height 60%
    [[file:img/data-pooling.png]]
    
 * Literate Programming
