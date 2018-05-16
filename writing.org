@@ -26,6 +26,18 @@ I've written about my work in the past. Here's a representative sample.
    #+ATTR_HTML: :width 60% :height 60%
    [[file:img/multi-model.png]]
 
+** [[http://eng.uber.com/observability-anomaly-detection/][Engineering a Job-based Forecasting Workflow for Observability Anomaly Detection]]
+
+   My major project of early 2018 revolved around overhauling Observability
+   Anomaly Detection's forecasting workflow to allow for performant forecast
+   backfilling. In this article, I discuss the product-centric motivations for
+   doing so, outline the primary performance bottlenecks, and discuss the design
+   that the team decided to base our solution -- and all subsequent
+   optimizations -- around.
+
+   #+ATTR_HTML: :width 60% :height 60%
+   [[file:img/data-pooling.png]]
+   
 * Literate Programming
 
 ** [[https://jjin.info/dotemacs][Emacs configurations]]
