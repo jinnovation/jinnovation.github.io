@@ -1,2 +1,2 @@
-((nil . ((eval . (progn
-                   (require 'jjin-personal-site-config (expand-file-name "./config.el")))))))
+(nil . ((eval . (progn
+                  (load "/Users/jjin/proj/personal-site/config")))))
