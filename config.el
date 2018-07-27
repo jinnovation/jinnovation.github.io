@@ -60,7 +60,9 @@
            ("static-pages"
              (mapcar
               (lambda (org-file)
-                (ht ("static-uri" (concat "/" (file-name-sans-extension org-file)))
+                (ht ("static-uri" (concat "/"
+                                          (if (string= (file-name-extension
+                                                        org-file) "org") (file-name-sans-extension org-file) org-file)))
                     ("static-title" (capitalize (file-name-sans-extension org-file)))))
               (remove-if (lambda (file)
                            (or
