@@ -80,12 +80,6 @@ b, strong {
     font-weight: bold;
     color: #333;
 }
-b:before, b:after, strong:before, strong:after {
-    content: "*";
-}
-i:before, i:after, em:before, em:after {
-    content: "/";
-}
 hr {
     margin: 0;
     border: 0;
