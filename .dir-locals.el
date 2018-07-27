@@ -1,2 +1,2 @@
 (nil . ((eval . (progn
-                  (load "/Users/jjin/proj/personal-site/config")))))
+                  (load "/Users/jjin/proj/jinnovation.github.io/config")))))

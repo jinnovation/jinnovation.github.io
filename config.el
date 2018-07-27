@@ -64,7 +64,8 @@
                     ("static-title" (capitalize (file-name-sans-extension org-file)))))
               (remove-if (lambda (file)
                            (or
-                            (not (string= (file-name-extension file) "org"))
+                            (not (or (string= (file-name-extension file) "org")
+                                     (string= (file-name-extension file) "pdf")))
                             (string= (file-name-nondirectory file) "index.org")))
                          (directory-files op/repository-directory)))))))))
 
