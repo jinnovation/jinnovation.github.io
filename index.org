@@ -9,6 +9,9 @@
 #+HTML_HEAD_EXtRA: <link rel="stylesheet" href="./css/sakura.css" type"text/css"/>
 #+HTML_HEAD_EXtRA: <link rel="stylesheet" href="./css/extra.css" type"text/css"/>
 
+#+INFOJS_OPT: toc:nil sdepth:2 view:overview buttons:nil
+#+INFOJS_OPT: path:./js/org-info.js
+
 [[./headshot.jpg]]
 
 I am a NYC-based software engineer. I'm currently at [[https://www.uber.com][Uber]] as a member of
@@ -50,7 +53,9 @@ My resume can be found [[file:resume.pdf][here]].
    
 ** Articles
 
-*** [[http://eng.uber.com/observability-anomaly-detection/][Engineering a Job-based Forecasting Workflow for Observability Anomaly Detection]]
+*** Engineering a Job-based Forecasting Workflow for Observability Anomaly Detection
+
+    /Article featured on the [[http://eng.uber.com/observability-anomaly-detection/][Uber Engineering Blog]]./
 
     My major project of early 2018 revolved around overhauling Observability
     Anomaly Detection's forecasting workflow to allow for performant forecast
@@ -61,8 +66,10 @@ My resume can be found [[file:resume.pdf][here]].
 
     [[file:img/data-pooling.png]]
 
-*** [[http://eng.uber.com/anomaly-detection/][Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform]]
+*** Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform
 
+    /Article featured on the [[http://eng.uber.com/observability-anomaly-detection/][Uber Engineering Blog]]./
+    
     One of my first sizeable projects at Uber Observability was implementing
     support for multiple forecasting models in our anomaly detection pipeline. The
     pre-existing architecture was built around a single-model assumption that
