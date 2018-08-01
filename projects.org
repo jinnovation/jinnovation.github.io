@@ -1,4 +1,0 @@
-#+TITLE: Projects
-#+URI: /projects
-
-WIP
