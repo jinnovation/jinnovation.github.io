@@ -1,3 +1,5 @@
+# -*- after-save-hook: (org-html-export-to-html org-babel-tangle); -*-
+
 #+TITLE: Jonathan Jin
 #+AUTHOR: Jonathan Jin
 #+EMAIL: jjin082693@gmail.com
@@ -13,12 +15,15 @@
 
 [[./headshot.jpg]]
 
-I am a NYC-based software engineer. I'm currently at [[https://www.uber.com][Uber]] as a member of
-Observability Applications.
+I am a NYC-based software engineer. I'm currently at Twitter as a membor of the
+[[https://cortex.twitter.com][Cortex]] team, working on machine learning platform and
+infrastructure. Previously, I was a member of Observability Applications at
+[[https://www.uber.com][Uber]], where I worked on forecasting and anomaly detection for time series
+metrics.
 
 My resume can be found [[file:resume.pdf][here]].
 
-* DONE Professional Interests
+* Professional Interests
 
   I'm interested in *research engineering* and *machine learning infrastructure
   engineering* positions.
@@ -96,4 +101,3 @@ My resume can be found [[file:resume.pdf][here]].
 # org-html-head-include-default-style: nil
 # org-html-validation-link: ""
 # End:
-
