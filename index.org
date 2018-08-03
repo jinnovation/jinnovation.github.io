@@ -9,8 +9,7 @@
 #+HTML_HEAD_EXtRA: <link rel="stylesheet" href="./css/sakura.css" type"text/css"/>
 #+HTML_HEAD_EXtRA: <link rel="stylesheet" href="./css/extra.css" type"text/css"/>
 
-#+INFOJS_OPT: toc:nil sdepth:2 view:overview buttons:nil
-#+INFOJS_OPT: path:./js/org-info.js
+#+INFOJS_OPT: toc:nil sdepth:2 view:overview buttons:nil path:./js/org-info.js
 
 [[./headshot.jpg]]
 
