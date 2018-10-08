@@ -15,7 +15,7 @@
 
 [[./headshot.jpg]]
 
-I am a NYC-based software engineer. I'm currently at Twitter as a membor of the
+I am a NYC-based software engineer. I'm currently at Twitter as a member of the
 [[https://cortex.twitter.com][Cortex]] team, working on machine learning platform and
 infrastructure. Previously, I was a member of Observability Applications at
 [[https://www.uber.com][Uber]], where I worked on forecasting and anomaly detection for time series
