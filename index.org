@@ -1,4 +1,4 @@
-# -*- after-save-hook: (org-html-export-to-html org-babel-tangle); -*-
+# -*- after-save-hook: (org-html-export-to-html); -*-
 
 #+TITLE: Jonathan Jin
 #+AUTHOR: Jonathan Jin
@@ -15,11 +15,10 @@
 
 [[./headshot.jpg]]
 
-I am a NYC-based software engineer. I'm currently at Twitter as a member of the
-[[https://cortex.twitter.com][Cortex]] team, working on machine learning platform and
-infrastructure. Previously, I was a member of Observability Applications at
-[[https://www.uber.com][Uber]], where I worked on forecasting and anomaly detection for time series
-metrics.
+I am a NYC-based software engineer. I'm currently at Twitter as a member of
+[[https://cortex.twitter.com][Cortex]] and the Machine Learning Platform Tools team. Previously, I was a member
+of Observability Applications at [[https://www.uber.com][Uber]], where I worked on forecasting and anomaly
+detection for time series metrics.
 
 My resume can be found [[file:resume.pdf][here]].
 
@@ -37,7 +36,7 @@ My resume can be found [[file:resume.pdf][here]].
   If you and your team are working on projects that I'd make a good addition
   for, let's talk.
 
-* Research Interests
+* Research Interests                                                  :noexport:
 
   My research interests lie in the fields of *machine learning*, *knowledge
   representation*, and *decision theory*.
