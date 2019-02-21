@@ -71,7 +71,7 @@ My resume can be found [[file:resume.pdf][here]].
 
 ** Implementing Model-Agnosticism in Uber’s Real-Time Anomaly Detection Platform
 
-   /Read on the Uber Engineering Blog [[http://eng.uber.com/observability-anomaly-detection/][here]]./
+   /Read on the Uber Engineering Blog [[http://eng.uber.com/anomaly-detection/][here]]./
     
    One of my first sizeable projects at Uber Observability was implementing
    support for multiple forecasting models in our anomaly detection pipeline. The
