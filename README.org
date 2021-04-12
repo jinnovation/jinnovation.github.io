@@ -26,7 +26,7 @@
 
   #+begin_export html
   <object data="resume.pdf" type="application/pdf" width="100%" height="500px">
-    alt : Download: <a href="resume.pdf">here</a>.
+    Download: <a href="resume.pdf">here</a>.
   </object>
   #+end_export
 
