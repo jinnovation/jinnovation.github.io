@@ -1,4 +1,4 @@
-# -*- before-save-hook: (delete-trailing-whitespace)-*-
+# -*- after-save-hook: (org-html-export-to-html); before-save-hook: (delete-trailing-whitespace)-*-
 
 #+TITLE: Jonathan Jin
 #+EMAIL: jjin@spotify.com
@@ -23,10 +23,22 @@
 
 * Resume
 
-  You can find a copy of my resume [[file:resume.pdf][here]].
+  Download: [[file:resume.pdf][here]].
+
+  #+begin_export html
+  <details>
+    <summary>View in-line</summary>
+    <iframe src="resume.pdf" width="100%" height="500px"></iframe>
+  </details>
+  #+end_export
 
 * Contact
 
   - [[https://twitter.com/NotJinterested][Twitter]]
   - [[https://linkedin.com/in/jinnovation/][Linkedin]]
   - [[https://github.com/jinnovation][GitHub]]
+
+* About This Site
+
+  This site is written with Emacs as a standard [[https://orgmode.org/][Org mode]] file, exported to
+  static HTML with [[https://watercss.kognise.dev/][Water.css]] for styling. Take a look [[https://github.com/jinnovation/jinnovation.github.io/][here]].
