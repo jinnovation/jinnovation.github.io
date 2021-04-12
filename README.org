@@ -24,13 +24,10 @@
 
 * Resume
 
-  Download: [[file:resume.pdf][here]].
-
   #+begin_export html
-  <details>
-    <summary>View in-line</summary>
-    <iframe id="pdf-js-viewer" src="resume.pdf" title="webviewer" frameborder="0" width="100%" height="500px"></iframe>
-  </details>
+  <object data="resume.pdf" type="application/pdf" width="100%" height="500px">
+    alt : Download: <a href="resume.pdf">here</a>.
+  </object>
   #+end_export
 
 * Contact
