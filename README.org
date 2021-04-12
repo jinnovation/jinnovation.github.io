@@ -5,6 +5,7 @@
 #+SUBTITLE: Machine Learning Software Engineer
 #+OPTIONS: toc:nil num:nil author:nil date:nil timestamp:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+#+HTML_HEAD: <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.7.570/build/pdf.min.js" integrity="sha256-AudxfNCSMlQsCO3X+cJKHBXanO9is9nhhteObFwmqOw=" crossorigin="anonymous"></script>
 #+EXPORT_FILE_NAME: index
 #+STARTUP: showall
 
@@ -28,7 +29,7 @@
   #+begin_export html
   <details>
     <summary>View in-line</summary>
-    <iframe src="resume.pdf" width="100%" height="500px"></iframe>
+    <iframe id="pdf-js-viewer" src="resume.pdf" title="webviewer" frameborder="0" width="100%" height="500px"></iframe>
   </details>
   #+end_export
 
