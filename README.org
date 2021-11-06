@@ -25,9 +25,8 @@
 * Talks
 
   #+begin_quote
-  **Note**: While this site itself [[*About This Site][uses no tracking whatsoever]], links provided
-    below may direct to sites that do, e.g. YouTube. Click at your own
-    discretion.
+  **Note**: While this site itself [[*About This Site][uses no tracking whatsoever]], links below may
+    direct to sites that do, e.g. YouTube. Click at your own discretion.
   #+end_quote
 
   - [[https://www.youtube.com/watch?v=KUyEuY5ZSqI]["Scaling Kubeflow for Multi-tenancy at Spotify"]], [[https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/][KubeCon + CloudNativeCon
