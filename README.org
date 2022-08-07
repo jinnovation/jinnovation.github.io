@@ -13,14 +13,14 @@
 
 * Summary
 
-  I am a NYC-based software engineer, currently working on machine learning
-  platform and infrastructure at [[https://engineering.atspotify.com/][Spotify]]. Previously, I've worked on AI
-  infrastructure for autonomous vehicle R&D at [[https://nvidia.com][NVIDIA]], as well as at [[https://cortex.twitter.com][Twitter
-  Cortex]] on machine learning platform and infrastructure.
+  I'm a machine learning engineer working on ML platform and infrastructure at
+  [[https://engineering.atspotify.com/][Spotify]] in NYC. My work centers around scalable systems engineering and
+  user-centric platform design for production-tier machine learning.
 
-  I specialize in large-scale, high-performance production machine learning
-  platforms to support the full machine learning lifecycle -- experimentation,
-  verification, productionization, etc.
+  Before Spotify, I helped build machine learning platforms at [[https://nvidia.com][NVIDIA]] as a
+  member of their [[https://www.nvidia.com/en-us/self-driving-cars/][autonomous vehicles division]] and Twitter as a member of their
+  [[https://cortex.twitter.com][Cortex]] organization. I've also worked on site reliability and observability
+  infrastructure at Uber.
 
 * Talks
 
