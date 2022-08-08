@@ -22,6 +22,9 @@
   [[https://cortex.twitter.com][Cortex]] organization. I've also worked on site reliability and observability
   infrastructure at Uber.
 
+  I'm a proud alumnus of the [[https://www.uchicago.edu/][University of Chicago]], where I studied computer
+  science and economics.
+
 * Talks
 
   #+begin_quote
