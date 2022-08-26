@@ -11,7 +11,7 @@
 
 [[file:profile.jpg]]
 
-* Summary
+* About Me
 
   I'm a machine learning engineer working on ML platform and infrastructure at
   [[https://engineering.atspotify.com/][Spotify]] in NYC. My work centers around scalable systems engineering and
