@@ -32,7 +32,7 @@
     direct to sites that do, e.g. YouTube. Click at your own discretion.
   #+end_quote
 
-  - [[https://twimlai.com/conf/twimlcon/2022/session/how-spotify-is-navigating-an-evolving-ml-landscape-with-hendrix-platform/][How Spotify is Navigating an Evolving ML Landscape with Hendrix Platform]],
+  - [[https://twimlai.com/conf/twimlcon/2022/session/how-spotify-is-navigating-an-evolving-ml-landscape-with-hendrix-platform/]["How Spotify is Navigating an Evolving ML Landscape with Hendrix Platform"]],
     [[https://twimlai.com/conf/twimlcon/2022/][TWIMLcon]] (2022)
   - [[https://mlconf.com/sessions/empowering-traceable-and-auditable-ml-in-production-at-spotify-with-hendrix/]["Empowering Traceable and Auditable ML in Production at Spotify with
     Hendrix"]], [[https://mlconf.com/][MLconf San Francisco]] (2022)
