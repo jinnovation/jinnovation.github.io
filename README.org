@@ -50,6 +50,7 @@
 * Contact
 
   - [[https://twitter.com/NotJinterested][Twitter]]
+  - @@html:<a rel="me" href="https://c.im/@jinnovation">Mastodon</a>@@
   - [[https://linkedin.com/in/jinnovation/][Linkedin]]
   - [[https://github.com/jinnovation][GitHub]]
 
