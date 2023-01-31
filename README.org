@@ -25,6 +25,18 @@
   I'm a proud alumnus of the [[https://www.uchicago.edu/][University of Chicago]], where I studied computer
   science and economics.
 
+* Resume
+
+  #+begin_export html
+  <object data="resume.pdf" type="application/pdf" width="100%" height="500px">
+    Download: <a href="resume.pdf">here</a>.
+  </object>
+  #+end_export
+
+* Features
+
+  - [[https://cnvrg.io/ai-developers-to-watch-2023/][cnvrg.io: "AI Developers to Watch 2023"]]
+
 * Talks
 
   #+begin_quote
@@ -38,14 +50,6 @@
     Hendrix"]], [[https://mlconf.com/][MLconf San Francisco]] (2022)
   - [[https://www.youtube.com/watch?v=KUyEuY5ZSqI]["Scaling Kubeflow for Multi-tenancy at Spotify"]], [[https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/][KubeCon + CloudNativeCon North America]] (2021)
   - "ML Workflows at Twitter: Lessons Learned", [[http://ainyc19.xnextcon.com/][AI NEXTCon New York]] (2019)
-
-* Resume
-
-  #+begin_export html
-  <object data="resume.pdf" type="application/pdf" width="100%" height="500px">
-    Download: <a href="resume.pdf">here</a>.
-  </object>
-  #+end_export
 
 * Contact
 
