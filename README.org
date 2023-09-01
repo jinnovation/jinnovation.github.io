@@ -14,8 +14,11 @@
 * About Me
 
   I'm a machine learning engineer working on ML platform and infrastructure at
-  [[https://engineering.atspotify.com/][Spotify]] in NYC. My work centers around scalable systems engineering and
-  user-centric platform design for production-tier machine learning.
+  [[https://engineering.atspotify.com/][Spotify]] in NYC. I currently lead initiatives centered around
+  developer-friendly AI/ML governance that empower ML practitioners to innovate
+  responsibly and cost-effectively. I've also worked on scalable cloud-native
+  infrastructure for production-tier machine learning workloads based on Ray,
+  Kubeflow, and Kubernetes.
 
   Before Spotify, I helped build machine learning platforms at [[https://nvidia.com][NVIDIA]] as a
   member of their [[https://www.nvidia.com/en-us/self-driving-cars/][autonomous vehicles division]] and Twitter as a member of their
