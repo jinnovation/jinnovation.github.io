@@ -13,12 +13,16 @@
 
 * About Me
 
-  I'm a machine learning engineer working on ML platform and infrastructure at
-  [[https://engineering.atspotify.com/][Spotify]] in NYC. I currently lead initiatives centered around
-  developer-friendly AI/ML governance that empower ML practitioners to innovate
-  responsibly and cost-effectively. I've also worked on scalable cloud-native
-  infrastructure for production-tier machine learning workloads based on Ray,
-  Kubeflow, and Kubernetes.
+  I'm a machine learning engineer with a specialization in platform and
+  infrastructure.
+
+  Most recently, I was a senior member of [[https://engineering.atspotify.com/][Spotify]]'s ML Platform org. There, I
+  worked on:
+
+  - Compute orchestration and workload management, e.g. managed multi-tenant
+    cluster infrastructure for [[https://www.kubeflow.org/][Kubeflow]] and [[https://www.ray.io/][Ray]] via Kubernetes in Google Cloud;
+  - Developer-friendly AI/ML governance and artifact/experiment management with
+    [[https://backstage.io/][Backstage]] and [[https://mlflow.org/][MLflow]].
 
   Before Spotify, I helped build machine learning platforms at [[https://nvidia.com][NVIDIA]] as a
   member of their [[https://www.nvidia.com/en-us/self-driving-cars/][autonomous vehicles division]] and Twitter as a member of their
