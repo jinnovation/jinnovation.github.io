@@ -54,6 +54,9 @@
   - [[https://www.youtube.com/watch?v=KUyEuY5ZSqI]["Scaling Kubeflow for Multi-tenancy at Spotify"]], [[https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/][KubeCon + CloudNativeCon North America]] (2021)
   - "ML Workflows at Twitter: Lessons Learned", [[http://ainyc19.xnextcon.com/][AI NEXTCon New York]] (2019)
 
+* Writing
+
+  - [[https://huggingface.co/learn/cookbook/index][Hugging Face Open-Source AI Cookbook]]: [[https://huggingface.co/learn/cookbook/rag_llamaindex_librarian]["Building a RAG Ebook 'Librarian' Using LlamaIndex"]]
 * Contact
 
   - @@html:<a rel="me" href="https://hachyderm.io/@jinnovation">Mastodon</a>@@
