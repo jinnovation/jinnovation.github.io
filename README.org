@@ -63,7 +63,6 @@
   - [[https://huggingface.co/learn/cookbook/index][Hugging Face Open-Source AI Cookbook]]: [[https://huggingface.co/learn/cookbook/rag_llamaindex_librarian]["Building a RAG Ebook 'Librarian' Using LlamaIndex"]]
 * Contact
 
-  - @@html:<a rel="me" href="https://hachyderm.io/@jinnovation">Mastodon</a>@@
   - [[https://linkedin.com/in/jinnovation/][Linkedin]]
   - [[https://github.com/jinnovation][GitHub]]
 
