@@ -1,11 +1,11 @@
 # -*- after-save-hook: (org-html-export-to-html); before-save-hook: (delete-trailing-whitespace)-*-
 
 #+TITLE: Jonathan Jin
-#+EMAIL: jjin@spotify.com
 #+SUBTITLE: Machine Learning Software Engineer
 #+OPTIONS: toc:nil num:nil author:nil date:nil timestamp:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 #+HTML_HEAD: <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.7.570/build/pdf.min.js" integrity="sha256-AudxfNCSMlQsCO3X+cJKHBXanO9is9nhhteObFwmqOw=" crossorigin="anonymous"></script>
+#+HTML_HEAD: <script src="https://cdn.usefathom.com/script.js" data-site="YXHRUHKO" defer></script>
 #+EXPORT_FILE_NAME: index
 #+STARTUP: showall
 
@@ -46,11 +46,6 @@
 
 * Talks
 
-  #+begin_quote
-  **Note**: While this site itself [[*About This Site][uses no tracking whatsoever]], links below may
-    direct to sites that do, e.g. YouTube. Click at your own discretion.
-  #+end_quote
-
   - [[https://twimlai.com/conf/twimlcon/2022/session/how-spotify-is-navigating-an-evolving-ml-landscape-with-hendrix-platform/]["How Spotify is Navigating an Evolving ML Landscape with Hendrix Platform"]],
     [[https://twimlai.com/conf/twimlcon/2022/][TWIMLcon]] (2022)
   - [[https://mlconf.com/sessions/empowering-traceable-and-auditable-ml-in-production-at-spotify-with-hendrix/]["Empowering Traceable and Auditable ML in Production at Spotify with
@@ -61,10 +56,12 @@
 * Writing
 
   - [[https://huggingface.co/learn/cookbook/index][Hugging Face Open-Source AI Cookbook]]: [[https://huggingface.co/learn/cookbook/rag_llamaindex_librarian]["Building a RAG Ebook 'Librarian' Using LlamaIndex"]]
+
 * Contact
 
   - [[https://linkedin.com/in/jinnovation/][Linkedin]]
   - [[https://github.com/jinnovation][GitHub]]
+  - [[https://huggingface.co/jinnovation][Hugging Face]]
 
 * About This Site
 
@@ -73,6 +70,9 @@
   display on browsers that support it.
 
   There are *no* trackers of any kind.
+
+  This site tracks site visits using [[https://usefathom.com/][Fathom]], a privacy-focused Google Analytics
+  alternative that collects no personal data.
 
   The site is hosted on GitHub with [[https://pages.github.com/][GitHub Pages]]. Take a look at the (truly very
   tiny) repo [[https://github.com/jinnovation/jinnovation.github.io/][here]], if interested.
