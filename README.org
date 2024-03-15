@@ -69,8 +69,6 @@
   static HTML with [[https://watercss.kognise.dev/][Water.css]] for styling. It uses [[https://mozilla.github.io/pdf.js/][PDF.js]] for in-line resume
   display on browsers that support it.
 
-  There are *no* trackers of any kind.
-
   This site tracks site visits using [[https://usefathom.com/][Fathom]], a privacy-focused Google Analytics
   alternative that collects no personal data.
 
