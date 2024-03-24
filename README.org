@@ -26,7 +26,7 @@
 
   Before Spotify, I helped build machine learning platforms at [[https://nvidia.com][NVIDIA]] as a
   member of their [[https://www.nvidia.com/en-us/self-driving-cars/][autonomous vehicles division]] and Twitter as a member of their
-  [[https://cortex.twitter.com][Cortex]] organization. I've also worked on site reliability and observability
+  [[http://archive.today/SAbMp][Cortex]] organization. I've also worked on site reliability and observability
   infrastructure at Uber.
 
   I'm a proud alumnus of the [[https://www.uchicago.edu/][University of Chicago]], where I studied computer
