@@ -14,23 +14,21 @@
 * About Me
 
   I'm a machine learning engineer with a specialization in platform and
-  infrastructure.
+  infrastructure. I am currently a Staff ML Engineer at [[https://hinge.co/][Hinge]] building out the
+  company's ML platform and infrastructure. I am also the Engineering Advisor
+  for the non-profit [[https://www.humane-intelligence.org/][Humane Intelligence]], where I work with [[https://www.rummanchowdhury.com/][Dr. Rumman Chowdhury]]
+  to build a community of practice around the burgeoning field of algorithmic
+  audit and evaluation in service of responsible AI.
 
-  Most recently, I was a senior member of [[https://engineering.atspotify.com/][Spotify]]'s ML Platform org. There, I
-  worked on:
+  I have previously helped build and scale machine learning platform and
+  infrastructure at Spotify, NVIDIA, and Twitter (pre-X).
 
-  - Compute orchestration and workload management, e.g. managed multi-tenant
-    cluster infrastructure for [[https://www.kubeflow.org/][Kubeflow]] and [[https://www.ray.io/][Ray]] via Kubernetes in Google Cloud;
-  - Developer-friendly AI/ML governance and artifact/experiment management with
-    [[https://backstage.io/][Backstage]] and [[https://mlflow.org/][MLflow]].
+  I've also worked on site reliability and observability infrastructure at Uber,
+  contributing to the systems that ultimately led to the creation of [[https://m3db.io/][M3DB]] and
+  [[https://chronosphere.io/][Chronosphere]].
 
-  Before Spotify, I helped build machine learning platforms at [[https://nvidia.com][NVIDIA]] as a
-  member of their [[https://www.nvidia.com/en-us/self-driving-cars/][autonomous vehicles division]] and Twitter as a member of their
-  [[http://archive.today/SAbMp][Cortex]] organization. I've also worked on site reliability and observability
-  infrastructure at Uber.
-
-  I'm a proud alumnus of the [[https://www.uchicago.edu/][University of Chicago]], where I studied computer
-  science and economics.
+  I'm a +mildly traumatized+ proud alumnus of the [[https://www.uchicago.edu/][University of Chicago]], where I
+  studied computer science and economics.
 
 * Resume
 
