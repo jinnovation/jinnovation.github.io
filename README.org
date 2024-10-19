@@ -15,13 +15,14 @@
 
   I'm a machine learning engineer with a specialization in platform and
   infrastructure. I am currently a Staff ML Engineer at [[https://hinge.co/][Hinge]] building out the
-  company's ML platform and infrastructure. I am also the Engineering Advisor
-  for the non-profit [[https://www.humane-intelligence.org/][Humane Intelligence]], where I work with [[https://www.rummanchowdhury.com/][Dr. Rumman Chowdhury]]
-  to build a community of practice around the burgeoning field of algorithmic
-  audit and evaluation in service of responsible AI.
+  company's ML platform and infrastructure.
 
   I have previously helped build and scale machine learning platform and
-  infrastructure at Spotify, NVIDIA, and Twitter (pre-X).
+  infrastructure at Spotify, NVIDIA, and Twitter (pre-X). I have also acted as
+  Engineering Advisor for the non-profit [[https://www.humane-intelligence.org/][Humane Intelligence]], where I worked
+  with [[https://www.rummanchowdhury.com/][Dr. Rumman Chowdhury]] to build a community of practice around the
+  burgeoning field of algorithmic audit and evaluation in service of responsible
+  AI.
 
   I've also worked on site reliability and observability infrastructure at Uber,
   contributing to the systems that ultimately led to the creation of [[https://m3db.io/][M3DB]] and
