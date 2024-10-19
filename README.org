@@ -45,12 +45,12 @@
 
 * Talks
 
+  - [[https://youtu.be/_nsTcYtfnXU]["Accelerating Time-to-Production for ML at Hinge"]], [[https://raysummit.anyscale.com/flow/anyscale/raysummit2024/landing/page/eventsite][Ray Summit]] (2024)
   - [[https://twimlai.com/conf/twimlcon/2022/session/how-spotify-is-navigating-an-evolving-ml-landscape-with-hendrix-platform/]["How Spotify is Navigating an Evolving ML Landscape with Hendrix Platform"]],
     [[https://twimlai.com/conf/twimlcon/2022/][TWIMLcon]] (2022)
   - [[https://mlconf.com/sessions/empowering-traceable-and-auditable-ml-in-production-at-spotify-with-hendrix/]["Empowering Traceable and Auditable ML in Production at Spotify with
     Hendrix"]], [[https://mlconf.com/][MLconf San Francisco]] (2022)
   - [[https://www.youtube.com/watch?v=KUyEuY5ZSqI]["Scaling Kubeflow for Multi-tenancy at Spotify"]], [[https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/][KubeCon + CloudNativeCon North America]] (2021)
-  - "ML Workflows at Twitter: Lessons Learned", [[http://ainyc19.xnextcon.com/][AI NEXTCon New York]] (2019)
 
 * Writing
 
