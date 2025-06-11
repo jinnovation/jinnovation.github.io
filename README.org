@@ -45,6 +45,7 @@
 
 * Talks
 
+  - [[https://www.youtube.com/watch?v=AaEMUlmKO4s&list=PLAesBe-zAQmFUeS0gMFSII4m-Zw4CoOoE]["Trimming the Long Tail of Production Model Ownership at Hinge"]], [[https://www.datacouncil.ai/][Data Council]] (2025)
   - [[https://youtu.be/_nsTcYtfnXU]["Accelerating Time-to-Production for ML at Hinge"]], [[https://raysummit.anyscale.com/flow/anyscale/raysummit2024/landing/page/eventsite][Ray Summit]] (2024)
   - [[https://twimlai.com/conf/twimlcon/2022/session/how-spotify-is-navigating-an-evolving-ml-landscape-with-hendrix-platform/]["How Spotify is Navigating an Evolving ML Landscape with Hendrix Platform"]],
     [[https://twimlai.com/conf/twimlcon/2022/][TWIMLcon]] (2022)
