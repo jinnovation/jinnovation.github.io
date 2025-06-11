@@ -55,6 +55,7 @@
 
 * Writing
 
+  - [[https://huggingface.co/learn/cookbook/index][Hugging Face Open-Source AI Cookbook]]: [[https://huggingface.co/learn/cookbook/en/mlflow_ray_serve]["Signature-Aware Model Serving from MLflow with Ray Serve"]]
   - [[https://huggingface.co/learn/cookbook/index][Hugging Face Open-Source AI Cookbook]]: [[https://huggingface.co/learn/cookbook/rag_llamaindex_librarian]["Building a RAG Ebook 'Librarian' Using LlamaIndex"]]
 
 * Contact
