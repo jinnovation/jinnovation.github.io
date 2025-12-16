@@ -24,11 +24,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Check out site
+        uses: actions/checkout@v6
+      - name: Check out resume
+        uses: actions/checkout@v6
         with:
           lfs: true
-          submodules: true
+          repository: jinnovation/resume
+          path: ./resume
+          sparse-checkout: |
+            resume.pdf
       - run: mkdir ./build
       - run: cp ./resume/resume.pdf ./build/resume.pdf
       - run: cp ./profile.jpg ./build/profile.jpg
