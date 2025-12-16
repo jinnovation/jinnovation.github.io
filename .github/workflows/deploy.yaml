@@ -29,14 +29,19 @@ jobs:
         with:
           lfs: true
           submodules: true
-      - run: cp ./resume/resume.pdf ./resume.pdf
+      - run: mkdir ./build
+      - run: cp ./resume/resume.pdf ./build/resume.pdf
+      - name: Setup Emacs
+        uses: purcell/setup-emacs@master
+        with:
+          version: 29.3
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - run: emacs README.org --batch --eval "(org-export-to-file 'html \"./build/index.html\")"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          path: './build'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

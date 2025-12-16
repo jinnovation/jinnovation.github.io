@@ -1,4 +1,4 @@
-# -*- after-save-hook: (org-html-export-to-html); before-save-hook: (delete-trailing-whitespace)-*-
+# -*- before-save-hook: (delete-trailing-whitespace)-*-
 
 #+TITLE: Jonathan Jin
 #+SUBTITLE: Machine Learning Software Engineer
