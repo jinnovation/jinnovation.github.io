@@ -13,9 +13,10 @@
 
 * About Me
 
-  I'm a machine learning engineer with a specialization in platform and
-  infrastructure. I am currently a Staff ML Engineer at [[https://hinge.co/][Hinge]] scaling platform
-  and infrastructure for ML and generative AI.
+  I'm a machine learning engineer with a specialization in platform and infrastructure. I am
+  currently a Staff ML Engineer at [[https://hinge.co/][Hinge]], where I was a founding member of the AI Platform Core
+  team. My focus areas have been around: agentic systems; online model serving; and data/feature
+  engineering for agentic AI and traditional ML.
 
   I have previously helped build and scale machine learning platform and
   infrastructure at Spotify, NVIDIA, and Twitter (pre-X). I have also acted as
