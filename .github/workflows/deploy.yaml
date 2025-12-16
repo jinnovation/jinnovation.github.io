@@ -31,6 +31,7 @@ jobs:
           submodules: true
       - run: mkdir ./build
       - run: cp ./resume/resume.pdf ./build/resume.pdf
+      - run: cp ./profile.jpg ./build/profile.jpg
       - name: Setup Emacs
         uses: purcell/setup-emacs@master
         with:
