@@ -40,10 +40,6 @@
   </object>
   #+end_export
 
-* Features
-
-  - [[https://cnvrg.io/ai-developers-to-watch-2023/][cnvrg.io: "AI Developers to Watch 2023"]]
-
 * Talks
 
   - [[https://www.youtube.com/watch?v=AaEMUlmKO4s&list=PLAesBe-zAQmFUeS0gMFSII4m-Zw4CoOoE]["Trimming the Long Tail of Production Model Ownership at Hinge"]], [[https://www.datacouncil.ai/][Data Council]] (2025)
@@ -53,11 +49,6 @@
   - [[https://mlconf.com/sessions/empowering-traceable-and-auditable-ml-in-production-at-spotify-with-hendrix/]["Empowering Traceable and Auditable ML in Production at Spotify with
     Hendrix"]], [[https://mlconf.com/][MLconf San Francisco]] (2022)
   - [[https://www.youtube.com/watch?v=KUyEuY5ZSqI]["Scaling Kubeflow for Multi-tenancy at Spotify"]], [[https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/][KubeCon + CloudNativeCon North America]] (2021)
-
-* Writing
-
-  - [[https://huggingface.co/learn/cookbook/index][Hugging Face Open-Source AI Cookbook]]: [[https://huggingface.co/learn/cookbook/en/mlflow_ray_serve]["Signature-Aware Model Serving from MLflow with Ray Serve"]]
-  - [[https://huggingface.co/learn/cookbook/index][Hugging Face Open-Source AI Cookbook]]: [[https://huggingface.co/learn/cookbook/rag_llamaindex_librarian]["Building a RAG Ebook 'Librarian' Using LlamaIndex"]]
 
 * Contact
 
