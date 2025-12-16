@@ -1,7 +1,7 @@
 # -*- before-save-hook: (delete-trailing-whitespace)-*-
 
 #+TITLE: Jonathan Jin
-#+SUBTITLE: Machine Learning Software Engineer
+#+SUBTITLE: AI and Machine Learning Engineer
 #+OPTIONS: toc:nil num:nil author:nil date:nil timestamp:nil html-postamble:nil
 #+HTML_HEAD: <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
 #+HTML_HEAD: <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.7.570/build/pdf.min.js" integrity="sha256-AudxfNCSMlQsCO3X+cJKHBXanO9is9nhhteObFwmqOw=" crossorigin="anonymous"></script>
@@ -13,10 +13,10 @@
 
 * About Me
 
-  I'm a machine learning engineer with a specialization in platform and infrastructure. I am
-  currently a Staff ML Engineer at [[https://hinge.co/][Hinge]], where I was a founding member of the AI Platform Core
-  team. My focus areas have been around: agentic systems; online model serving; and data/feature
-  engineering for agentic AI and traditional ML.
+  I'm a AI/ML engineer with a specialization in platform and infrastructure. I am currently a Staff
+  ML Engineer at [[https://hinge.co/][Hinge]], where I was a founding member of the AI Platform Core team. My focus areas
+  have been around: agentic systems; online model serving; and data/feature engineering for agentic
+  AI and traditional ML.
 
   I have previously helped build and scale machine learning platform and
   infrastructure at Spotify, NVIDIA, and Twitter (pre-X). I have also acted as
